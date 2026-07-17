@@ -1,0 +1,4 @@
+employeeId,name,email,phone,password,department,designation,salary,joiningDate,status,role
+EMP-1001,Ravi Kumar,ravi.kumar@example.com,9876543210,Welcome@123,Engineering,Software Engineer,65000,2024-03-01,Active,Employee
+EMP-1002,Sneha Rao,sneha.rao@example.com,9876543211,Welcome@123,Human Resources,HR Executive,55000,2023-11-15,Active,HR Manager
+EMP-1003,Aman Verma,aman.verma@example.com,9876543212,Welcome@123,Sales,Sales Associate,48000,2024-06-20,Active,Employee
