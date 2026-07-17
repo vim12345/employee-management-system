@@ -140,13 +140,3 @@ This was built to the 8–10 hour assignment brief. A few things a production sy
 add next: refresh-token rotation, rate limiting on `/auth/login`, audit logging on RBAC
 actions, and file storage (S3/Cloudinary) for profile images instead of a plain string field.
 
-## Screenshots
-
-### Dashboard
-![Dashboard](screenshots/dashboard-light-mode.png)
-
-### Employees
-![Employees](screenshots/employees-list.png)
-
-### Organization Chart
-![Org Chart](screenshots/org-chart.png)
